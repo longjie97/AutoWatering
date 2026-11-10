@@ -1,0 +1,13 @@
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:40:13:EPD_Reset	8	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:56:13:EPD_SendCommand	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:69:13:EPD_SendData	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:81:13:EPD_ReadBusy	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:94:13:EPD_TurnOnDisplay	8	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:100:13:_SendRed	8	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:103:13:_SendBlack	8	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:110:6:EPD_Init	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:148:6:EPD_Clear	24	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:169:6:EPD_Full	24	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:189:6:EPD_SHOW	24	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:213:6:EPD_Display	32	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/Screen/EPD_2in2b_V3.c:240:6:EPD_Sleep	8	static

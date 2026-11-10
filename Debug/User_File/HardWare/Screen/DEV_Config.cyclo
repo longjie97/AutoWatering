@@ -1,0 +1,5 @@
+../User_File/HardWare/Screen/DEV_Config.c:36:6:DEV_SPI_WriteByte	1
+../User_File/HardWare/Screen/DEV_Config.c:42:6:DEV_SPI_Write_nByte	1
+../User_File/HardWare/Screen/DEV_Config.c:48:6:DEV_GPIO_Mode	2
+../User_File/HardWare/Screen/DEV_Config.c:66:5:DEV_Module_Init	1
+../User_File/HardWare/Screen/DEV_Config.c:75:6:DEV_Module_Exit	1

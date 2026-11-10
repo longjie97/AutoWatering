@@ -1,0 +1,2 @@
+../User_File/HardWare/hw_gpio.c:5:6:hw_gpio_init	4	static
+../User_File/HardWare/hw_gpio.c:8:6:hw_gpio_write	16	static

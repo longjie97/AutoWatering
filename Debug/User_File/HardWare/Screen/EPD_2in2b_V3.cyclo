@@ -1,0 +1,13 @@
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:40:13:EPD_Reset	1
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:56:13:EPD_SendCommand	1
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:69:13:EPD_SendData	1
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:81:13:EPD_ReadBusy	2
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:94:13:EPD_TurnOnDisplay	1
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:100:13:_SendRed	1
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:103:13:_SendBlack	1
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:110:6:EPD_Init	1
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:148:6:EPD_Clear	5
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:169:6:EPD_Full	5
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:189:6:EPD_SHOW	5
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:213:6:EPD_Display	5
+../User_File/HardWare/Screen/EPD_2in2b_V3.c:240:6:EPD_Sleep	1

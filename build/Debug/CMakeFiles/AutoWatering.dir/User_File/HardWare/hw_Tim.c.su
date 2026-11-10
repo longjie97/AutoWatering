@@ -1,0 +1,5 @@
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_Tim.c:13:10:hw_TimerGetTickCount	4	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_Tim.c:17:6:delay_us	24	static,ignoring_inline_asm
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_Tim.c:34:6:delay_ms	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_Tim.c:40:6:delay_s	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_Tim.c:46:9:hw_TimerAfter	16	static

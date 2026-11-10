@@ -1,0 +1,3 @@
+../User_File/HardWare/Screen/hw_EPD.c:8:5:hw_EPD_Init	8	static
+../User_File/HardWare/Screen/hw_EPD.c:19:5:hw_EPD_Default_Shou	32	static
+../User_File/HardWare/Screen/hw_EPD.c:60:5:hw_EPD_poll	32	static

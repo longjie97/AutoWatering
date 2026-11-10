@@ -1,0 +1,4 @@
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_tsc.c:11:6:hw_tsc_init	8	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_tsc.c:20:13:hw_tsc_channel_select	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_tsc.c:47:6:hw_tsc_test	16	static
+D:/Code/AutoWatering/AutoWatering-Code/AutoWatering/User_File/HardWare/hw_tsc.c:64:6:hw_tsc_scan	16	static
